@@ -1,4 +1,5 @@
 ---
+# tasks file for google-chrome
 
 - name: Create yum repository
   yum_repository:
